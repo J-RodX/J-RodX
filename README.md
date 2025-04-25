@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Generative AI, Python, and Machine Learning
 - 🌱 I’m currently learning python and Generative AI.
 - 💞️ I’m looking to collaborate on AI in general
-- 📫 Send an email to vitalik@askvitalik.com
+
 
 <!---
 J-RodX/J-RodX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
